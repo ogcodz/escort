@@ -1,0 +1,16 @@
+DateTime==5.2
+asyncio==3.4.3
+requests==2.31.0
+phonenumbers==8.13.20
+aiogram==2.25.1
+mysql-connector-python==8.0.33
+dataclasses==0.6
+redis==5.0.0
+uvicorn==0.22.0
+fastapi==0.95.2
+emoji==2.2.0
+matplotlib==3.6.3
+pandas==2.0.3
+cryptocompare==0.7.6
+Pillow==10.0.0
+shortuuid==1.0.11
